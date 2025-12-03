@@ -1,5 +1,5 @@
 
-# -Transcendent-Rationalism-Archive
+# Transcendent-Rationalism-Archive
 **Основатель:** Водан  
 **Дата инициализации:** 15 января 2024 года  
 **Статус:** Активная разработка
